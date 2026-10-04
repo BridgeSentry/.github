@@ -1,6 +1,6 @@
 # BridgeSentry
 
-This organization hosts the code and results for the paper **"BridgeSentry: Meta-Path-Guided
+This GitHub organization hosts all the code and results for the paper **"BridgeSentry: Meta-Path-Guided
 Graph Learning for Cross-chain Bridge Attack Detection."**
 
 ## Repositories
